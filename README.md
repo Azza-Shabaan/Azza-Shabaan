@@ -15,7 +15,6 @@
 </div>
 
 <hr></hr>
-
 ## 👩‍💻 About Me
 
 Results-driven **Data Analyst** specializing in transforming complex datasets into actionable business insights. Experienced in end-to-end data analysis workflows, from data extraction and cleaning to visualization and strategic reporting. Passionate about leveraging data to drive informed decision-making and business growth.
@@ -133,8 +132,8 @@ Results-driven **Data Analyst** specializing in transforming complex datasets in
 
 <hr></hr>
 
+## 💬 Dev Quote
+
 <div align="center">
-
-💜 *"Data is the new oil, but insights are the refined fuel that drives business success."* 💜
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </div>
