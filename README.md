@@ -1,7 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWcZvNq/giphy.gif" href="https://github.com/Azza-Shabaan" alt="Hello Data Analyst" width="60%"/> <br>
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" href="https://github.com/Azza-Shabaan" alt="Data Workspace"  width="40%"/><br> 
+<img src="https://raw.githubusercontent.com/Azza-Shabaan/Azza-Shabaan/main/banner.png" href="https://github.com/Azza-Shabaan" alt="Azza Shaaban - Data Analyst" width="100%"/> <br>
 
 <details>
 <p><strong> <summary>  Busy analyzing & Visualizing data :   </summary> </strong></p>
@@ -57,18 +56,14 @@ class About extends Me {
 <div align="center" >
 <a  href="https://github.com/Azza-Shabaan">
 
-<img src="https://raw.githubusercontent.com/Azza-Shabaan/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/Azza-Shabaan/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/Azza-Shabaan/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=Azza-Shabaan&show_icons=true&theme=radical&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azza-Shabaan&layout=compact&theme=radical&hide_border=true" width="48%">
 
 </a>
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/Azza-Shabaan/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+</div>
 
-</details>
+<div align="center" >
   
 <hr></hr>
 
