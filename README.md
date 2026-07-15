@@ -132,8 +132,16 @@ Results-driven **Data Analyst** specializing in transforming complex datasets in
 
 <hr></hr>
 
-## 💬 Dev Quote
+## 💡 Data quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Data%20will%20talk%20to%20you%20if%20you%27re%20willing%20to%20listen.&author=Jim%20Bergeson" alt="Data Quote" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Data%20Analyst-FF6B6B?style=flat-square&logo=chart.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  
 </div>
