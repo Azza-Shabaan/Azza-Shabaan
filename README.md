@@ -94,15 +94,16 @@ Results-driven **Data Analyst** specializing in transforming complex datasets in
 
 ## 📊 GitHub Stats
 
-<div align="center" >
-<a  href="https://github.com/Azza-Shabaan">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Azza-Shabaan&show_icons=true&theme=radical&hide_border=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azza-Shabaan&layout=compact&theme=radical&hide_border=true" width="48%">
-
-</a>
-
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  
+  &nbsp;&nbsp;&nbsp;
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+  
 </div>
+
 
 <hr></hr>
 
