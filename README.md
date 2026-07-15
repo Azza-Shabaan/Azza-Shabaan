@@ -12,6 +12,29 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Azza-Shabaan&color=blueviolet&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/Azza-Shabaan?style=social) <br>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/azza-shabaan-596873414">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:azzaeltawel81@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/azza_shabaan_ahmed">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="https://x.com/Azza_Shabaan_">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+</a>
+<a href="t.me/Azza_Shabaan_Ahmed">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+</div>
+
+<hr></hr>
 </div>
 
 <hr></hr>
