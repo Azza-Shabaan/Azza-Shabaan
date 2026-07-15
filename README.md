@@ -1,94 +1,115 @@
 <div align="center" width="50">
 
-<img src="./assets/banner.png" alt="Azza Shaaban Banner" width="100%"/> <br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<img src="images/azza-banner.png" alt="Azza Shaaban - Data Analyst" width="100%"/>
 
 <details>
-<p><strong><summary>📊 Currently Learning & Building</summary></strong></p>
+<p><strong> <summary>  Busy analyzing data & Vibing to :   </summary> </strong></p>
 
-Python • SQL • Power BI • Data Visualization • Exploratory Data Analysis
+
+
+![Spotify](https://open.spotify.com/user/)
+
+ <br>
 
 </details>
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Azza-Shabaan&label=Profile+Views&color=8a2be2&style=flat)
+
+
+[
+
+![Email](https://img.shields.io/badge/Email-azzaeltawel81%40gmail.com-8a2be2?style=flat&logo=gmail&logoColor=white)
+
+](mailto:azzaeltawel81@gmail.com)
+[
+
+![X](https://img.shields.io/badge/X-@AzzaShabaan-000000?style=flat&logo=x&logoColor=white)
+
+](https://x.com/Azza_Shabaan_)
+[
+
+![Instagram](https://img.shields.io/badge/Instagram-azzashabaanahmed-E4405F?style=flat&logo=instagram&logoColor=white)
+
+](https://www.instagram.com/azza_shabaan_ahmed?igsh=MXZpbHZrMW4ycnNqYw==)
+[
+
+![Facebook](https://img.shields.io/badge/Facebook-Azza%20Shaaban-1877F2?style=flat&logo=facebook&logoColor=white)
+
+](https://www.facebook.com/share/1DPjvifWXg/)
 
 </div>
 
 <hr></hr>
 
-class About(Me):
 
-    myTools = {
 
-        "ProgrammingLanguages": {"Python", "SQL"},
+![tools_I_use](https://img.shields.io/badge/Tools_I_Use-8a2be2?style=for-the-badge)
 
-        "Libraries": {
-            "Pandas",
-            "NumPy",
-            "Matplotlib",
-            "Seaborn"
-        },
 
-        "Visualization": {
-            "Power BI",
-            "Excel"
-        },
 
-        "Editors": {
-            "VS Code",
-            "Jupyter Notebook"
-        },
 
-        "Platforms": {
-            "Windows",
-            "GNU/Linux"
-        },
 
-        "OtherTools": {
-            "Git",
-            "GitHub",
-            "Markdown"
-        }
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-    }
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" /> &nbsp; I'm currently improving my Data Analysis skills through real-world projects. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="15%" /><br>
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I enjoy exploring datasets, discovering patterns, and creating dashboards.<br>
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about Python, SQL, Excel, Power BI, Pandas, or Data Analysis.<br>
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; LinkedIn:<br>
-  https://www.linkedin.com/in/azza-shabaan-596873414
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Email:<br>
-  azzaeltawel81@gmail.com
 
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I enjoy turning raw data into meaningful insights and interactive dashboards.<br>
 
-<div align="center">
 
-<a href="https://github.com/Azza-Shabaan">
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Azza-Shabaan&show_icons=true&theme=tokyonight&hide_border=true" width="32.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azza-Shabaan&layout=compact&theme=tokyonight&hide_border=true" width="32.5%">
-<img src="https://streak-stats.demolab.com?user=Azza-Shabaan&theme=tokyonight&hide_border=true" width="32.5%">
 
-</a>
 
-<details>
-<summary>More stats</summary>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Azza-Shabaan&theme=tokyo-night">
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-</details>
 
-<hr></hr>
 
-### 📊 Data Analysis Workflow
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" width="10%" alt="Collect Data"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="10%" alt="Analyze Data"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" width="10%" alt="Generate Insights"/><br>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-</div>
+
+
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+// tools_I_use organized
+
+class About extends Me {
+  const myTools = {
+    "ProgrammingLanguages" : { "Python", "SQL" },
+    "DataTools"            : { "Pandas", "NumPy", "Excel" },
+    "Visualization"        : { "Power BI", "Data Visualization" },
+    "OtherTools"           : { "Git", "Jupyter Notebook" }
+  };
+}I'm currently sharpening my skills in Power BI & advanced Excel. 
+    I love turning raw data into clear, meaningful insights. 
+   Ask me about data analysis, dashboards, or anything data-related. 
+   Reach me by email: azzaeltawel81@gmail.com 
+      Fun fact: Data doesn't lie, but it definitely likes to hide the truth in messy spreadsheets.
+�
+
+�
+￼ ￼ ￼
+�
+
+�
+More stats
+�
+￼
+�
+
+�
+
+Data Analysis Cycle
+�
+￼       ￼       ￼
+
+�
