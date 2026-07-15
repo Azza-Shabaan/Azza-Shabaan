@@ -57,7 +57,7 @@ Results-driven **Data Analyst** specializing in transforming complex datasets in
 **Objective:** Analyze sales data to identify revenue trends, seasonal patterns, and top-performing products.
 
 **Key Achievements:**
-- Processed and cleaned 50,000+ sales records using Python and Pandas
+- Processed and cleaned 500+ sales records using Python and Pandas
 - Identified 15% revenue growth opportunity through trend analysis
 - Built interactive visualizations with Matplotlib and Seaborn
 - Delivered actionable recommendations for inventory optimization
