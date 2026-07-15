@@ -1,15 +1,11 @@
-<img src="https://raw.githubusercontent.com/Azza-Shabaan/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/Azza-Shabaan/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/Azza-Shabaan/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=Azza-Shabaan&show_icons=true&theme=radical&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azza-Shabaan&layout=compact&theme=radical&hide_border=true" width="48%">
 
 </a>
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/Azza-Shabaan/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+</div>
 
-</details>
+<div align="center" >
   
 <hr></hr>
 
