@@ -79,19 +79,6 @@ Results-driven **Data Analyst** specializing in transforming complex datasets in
 
 ---
 
-### 3. Global COVID-19 Data Insights
-**Objective:** Analyze global COVID-19 datasets to extract insights about case trends, vaccination progress, and regional impact.
-
-**Key Achievements:**
-- Queried and analyzed 1M+ records using advanced SQL techniques
-- Developed comparative analysis across 190+ countries
-- Created comprehensive visualizations highlighting vaccination effectiveness
-- Published findings supporting public health decision-making
-
-**Tools:** PostgreSQL, SQL, Python, Pandas
-
----
-
 ### 4. E-Commerce Business Intelligence Report
 **Objective:** Build a comprehensive BI report analyzing customer behavior, product performance, and market trends.
 
