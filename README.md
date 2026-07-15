@@ -16,6 +16,17 @@
 
 <hr></hr>
 
+## 👩‍💻 About Me
+
+Hi, I'm **Azza Shabaan** — an aspiring Data Analyst passionate about transforming raw data into meaningful stories. I'm currently building my skills through hands-on projects and continuous learning.
+
+- 🎓 **Background:** [Your field of study or background]
+- 🌱 **Currently Learning:** Machine Learning, Advanced SQL, and Statistical Analysis
+- 🔍 **Interests:** Data Visualization, Business Intelligence, and Predictive Analytics
+- 📊 **Goal:** To help organizations make data-driven decisions
+
+<hr></hr>
+
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -47,6 +58,17 @@ class About extends Me {
   };
 }
 
+<hr></hr>
+
+## 📚 What I'm Working On
+
+- 🛠️ Building data analysis projects to strengthen my portfolio
+- 📖 Learning statistics and data storytelling techniques
+- 🎯 Preparing for a career in Data Analytics & Business Intelligence
+
+<hr></hr>
+
+## 🌟 Quick Facts
 
 -  <img alt="GIF" src="https://media.giphy.com/media/juua9i2c2fA0AIpoTk/giphy.gif" width="25" /> &nbsp; I’m currently learning Machine Learning & Advanced Analytics. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" />&nbsp;&nbsp;&nbsp; I love turning raw data into meaningful insights. <br>
@@ -54,25 +76,25 @@ class About extends Me {
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNw/giphy.gif" width="25" /> &nbsp; Find me on LinkedIn: <a href="https://www.linkedin.com/in/azza-shabaan-596873414">Azza Shabaan</a><br>
 - &nbsp;&nbsp;<img src="https://media.giphy.com/media/1BeE8p0UOkBw9nG4qC/giphy.gif" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: 90% of the world's data was created in the last two years alone!<br>
 
+<hr></hr>
+
+## 📊 GitHub Stats
+
 <div align="center" >
 <a  href="https://github.com/Azza-Shabaan">
 
-<img src="https://raw.githubusercontent.com/Azza-Shabaan/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/Azza-Shabaan/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/Azza-Shabaan/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=Azza-Shabaan&show_icons=true&theme=radical&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azza-Shabaan&layout=compact&theme=radical&hide_border=true" width="48%">
 
 </a>
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/Azza-Shabaan/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+</div>
 
-</details>
-  
 <hr></hr>
 
-Data Cycle<br>
+## 🔄 Data Cycle
+
+<div align="center" >
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Raw Data!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -80,5 +102,12 @@ Data Cycle<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Beautiful Insights!"/><br>
 
+</div>
+
+<hr></hr>
+
+<div align="center">
+
+💜 *"Every expert was once a beginner. I'm on my journey to becoming a Data Analyst."* 💜
 
 </div>
