@@ -154,7 +154,9 @@ Results-driven **Data Analyst** specializing in transforming complex datasets in
 <a href="https://x.com/Azza_Shabaan_">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
 </a>
-
+<a href="t.me/Azza_Shabaan_Ahmed">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 </div>
 
 <hr></hr>
