@@ -40,7 +40,7 @@
 <hr></hr>
 ## 👩‍💻 About Me
 
-Results-driven **Data Analyst** specializing in transforming complex datasets into actionable business insights. Experienced in end-to-end data analysis workflows, from data extraction and cleaning to visualization and strategic reporting. Passionate about leveraging data to drive informed decision-making and business growth.
+junior **Data Analyst** specializing in transforming complex datasets into actionable business insights. Experienced in end-to-end data analysis workflows, from data extraction and cleaning to visualization and strategic reporting. Passionate about leveraging data to drive informed decision-making and business growth.
 
 - 🎯 **Specialization:** Data Analysis, Business Intelligence, and Data Visualization
 - 📊 **Focus:** Turning raw data into strategic insights that drive business value
