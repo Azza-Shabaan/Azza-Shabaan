@@ -80,7 +80,6 @@ junior **Data Analyst** specializing in transforming complex datasets into actio
 
 **Key Achievements:**
 - Processed and cleaned lots of data using Python and Pandas
-- Identified 15% revenue growth opportunity through trend analysis
 - Built interactive visualizations with Matplotlib and Seaborn
 - Delivered actionable recommendations for inventory optimization
 
