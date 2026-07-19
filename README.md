@@ -79,7 +79,7 @@ Results-driven **Data Analyst** specializing in transforming complex datasets in
 **Objective:** Analyze sales data to identify revenue trends, seasonal patterns, and top-performing products.
 
 **Key Achievements:**
-- Processed and cleaned 500+ sales records using Python and Pandas
+- Processed and cleaned lots of data using Python and Pandas
 - Identified 15% revenue growth opportunity through trend analysis
 - Built interactive visualizations with Matplotlib and Seaborn
 - Delivered actionable recommendations for inventory optimization
@@ -93,7 +93,6 @@ Results-driven **Data Analyst** specializing in transforming complex datasets in
 
 **Key Achievements:**
 - Designed and deployed a Power BI dashboard with real-time KPI tracking
-- Identified key churn factors, reducing customer attrition risk by 20%
 - Created automated reporting system for stakeholders
 - Provided data-backed strategies for customer retention
 
@@ -101,14 +100,12 @@ Results-driven **Data Analyst** specializing in transforming complex datasets in
 
 ---
 
-### 4. E-Commerce Business Intelligence Report
+### 3. E-Commerce Business Intelligence Report
 **Objective:** Build a comprehensive BI report analyzing customer behavior, product performance, and market trends.
 
 **Key Achievements:**
 - Integrated data from multiple sources into unified analytics pipeline
 - Developed customer segmentation model using clustering techniques
-- Increased marketing ROI by 25% through targeted campaign insights
-- Automated monthly reporting, saving 10+ hours of manual work
 
 **Tools:** Python, SQL, Tableau, Excel
 
